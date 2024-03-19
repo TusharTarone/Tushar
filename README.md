@@ -1,4 +1,4 @@
-[![Masterhead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)]
+[![Masterhead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://github.com/TusharTarone)
 <h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding"width="400" src="![image](https://github.com/TusharTarone/Tushar/assets/163222005/e977514f-cf5c-4850-a126-458d624cade3)
