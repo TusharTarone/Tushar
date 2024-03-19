@@ -1,7 +1,9 @@
 [![Masterhead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)]
 <h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding"width="400" src="https://rse-academy.com/wp-content/uploads/2023/11/coding-3d-animation.png">
+<img align="right" alt="coding"width="400" src="![image](https://github.com/TusharTarone/Tushar/assets/163222005/e977514f-cf5c-4850-a126-458d624cade3)
+![Uploading image.png…]()
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushartarone&label=Profile%20views&color=0e75b6&style=flat" alt="tushartarone" /> </p>
 
